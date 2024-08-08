@@ -1,0 +1,10 @@
+transformers
+datasets
+opencv-python-headless
+accelerate
+peft
+bitsandbytes
+einops
+timm
+tiktoken
+wandb
